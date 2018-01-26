@@ -12,7 +12,7 @@
 .eslintcache
 
 # workspace files are user-specific
-*.sublime-workspace  
+*.sublime-workspace
 
 ### WebStorm/IntelliJ ###
 /.idea
@@ -23,5 +23,5 @@ modules.xml
 ._*
 
 # Files that might appear in the root of a volume
-.TemporaryItems    
-.Trashes   
+.TemporaryItems
+.Trashes
