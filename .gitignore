@@ -25,3 +25,13 @@ modules.xml
 # Files that might appear in the root of a volume
 .TemporaryItems
 .Trashes
+
+# Remove Cashes #
+/code/public/var/cache/*
+!/code/public/var/cache/clear_cache.sh
+/code/public/web/cache/*
+!/code/public/web/cache/.gitkeep
+
+# Remove Logs #
+/code/public/var/log/*
+!/code/public/var/log/.htaccess
