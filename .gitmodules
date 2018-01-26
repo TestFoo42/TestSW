@@ -1,0 +1,3 @@
+[submodule "code/public/custom/plugins"]
+	path = code/public/custom/plugins
+	url = https://github.com/TestFoo42/SW-Plugins.git
