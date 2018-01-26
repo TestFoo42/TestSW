@@ -23,5 +23,5 @@ modules.xml
 ._*
 
 # Files that might appear in the root of a volume
-.TemporaryItems
-.Trashes
+.TemporaryItems    
+.Trashes   
