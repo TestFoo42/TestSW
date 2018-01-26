@@ -19,6 +19,6 @@ mysql:
       - "3306:3306"
     environment:
       - MYSQL_ROOT_PASSWORD=ghost22ghost23
-      - MYSQL_DATABASE=demo_shopware
-      - MYSQL_USER=demo
-      - MYSQL_PASSWORD=ghost22ghost23
+      - MYSQL_DATABASE=customer
+      - MYSQL_USER=customer
+      - MYSQL_PASSWORD=customer
