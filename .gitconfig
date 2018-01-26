@@ -1,0 +1,10 @@
+[alias]
+unstage = reset HEAD --
+amend = commit --amend
+co = checkout
+ci = commit
+st = status
+br = branch
+last = log -1 HEAD
+
+#git config --local include.path ../.gitconfig
